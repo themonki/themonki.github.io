@@ -14,9 +14,9 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Edgar Andres Moncada
-email: edgarandres29@gmail.com
+email: 
 description: > # this means to ignore newlines until "baseurl:"
-  Información personal
+  No se habla mucho, se programa.
 baseurl: "" # the subpath of your site, e.g. /blog
 #url: "http://example.com" # the base hostname & protocol for your site
 twitter_username: the_monki
@@ -25,3 +25,5 @@ github_username:  themonki
 # Build settings
 markdown: kramdown
 theme: minima
+
+exclude: ['README.md', 'Gemfile.lock', 'Gemfile', 'LICENSE']
