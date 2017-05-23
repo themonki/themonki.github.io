@@ -18,7 +18,7 @@ A diferencia de la información de Medellin y Bogotá, que también cuentan con 
 
 De esta manera Google se une a la aplicación Moovit como un aliado para proveer información en tiempo real  que busca ayudar a los usuarios a tener la información de los buses del SITM-MIO. También se unen a las aplicaciones propias que se encuentran en la página del [MIO](http://www.mio.com.co) como los son “Rutas” “Planea tu viaje” y “Paradas 5MIO”.
 
-Ref: [http://www.metrocali.gov.co/cms/google-incluye-al-mio-en-su-aplicaci-n-de-tr-nsito-usuarios-pueden-planear-su-viaje-en-tiempo-real-a-trav-s-de-google-maps/)]()
+Ref: [GOOGLE INCLUYE AL MIO EN SU APLICACIÓN DE TRÁNSITO. USUARIOS PUEDEN PLANEAR SU VIAJE EN TIEMPO REAL A TRAVÉS DE GOOGLE MAPS](http://www.metrocali.gov.co/cms/google-incluye-al-mio-en-su-aplicaci-n-de-tr-nsito-usuarios-pueden-planear-su-viaje-en-tiempo-real-a-trav-s-de-google-maps/)
 
 Comparto la siguiente presentación que explica el uso de Google Transit:
 
